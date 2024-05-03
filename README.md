@@ -26,8 +26,8 @@
 
 ### Github 激活
 
-[![](https://activity-graph.herokuapp.com/graph?username=Chuluo08&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Chuluo08&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=chuluo0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=chuluo0&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chuluo08&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chuluo08&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuluo0&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chuluo0&layout=compact&langs_count=6)
