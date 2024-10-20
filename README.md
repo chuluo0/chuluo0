@@ -4,15 +4,15 @@
 <h2>Hello, I'am Chuluo</h2>
 <P>一个热爱技术的少年还是一个自学力很强的人，目前掌握的技术全是通过自学</P>
  <h3>技术栈：</h3>
-<a href="https://www.w3.org/html/"><code><img height="20" src="svg/html5-color.svg"></code></a>
-<a href="https://www.w3schools.com/css/"><code><img height="20" src="svg/css3-color.svg"></code></a>
-<a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"><code><img height="20" src="svg/javascript-color.svg"></code></a>
-<a href="https://www.cprogramming.com/"><code><img height="20" src="svg/c-color.svg"></code></a>
-<a href="https://www.w3schools.com/cpp/"><code><img height="20" src="svg/cplusplus-color.svg"></code></a>
+<a href="https://www.w3.org/html/"><code><img height="25" src="svg/html5-color.svg"></code></a>
+<a href="https://www.w3schools.com/css/"><code><img height="25" src="svg/css3-color.svg"></code></a>
+<a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"><code><img height="25" src="svg/javascript-color.svg"></code></a>
+<a href="https://www.cprogramming.com/"><code><img height="25" src="svg/c-color.svg"></code></a>
+<a href="https://www.w3schools.com/cpp/"><code><img height="25" src="svg/cplusplus-color.svg"></code></a>
 <a href="https://www.w3schools.com/cs/index.php"><code><img height="20" src="svg/csharp-original.svg"></code></a>
-<a href="https://www.java.com/zh-CN/"><code><img height="20" src="svg/java-original.svg"></code></a>
-<a href="https://www.python.org/"><code><img height="20" src="svg/python-color.svg"></code></a>
-<a href="https://go.dev/"><code><img height="20" src="svg/go-color.svg"></code></a>
+<a href="https://www.java.com/zh-CN/"><code><img height="25" src="svg/java-original.svg"></code></a>
+<a href="https://www.python.org/"><code><img height="25" src="svg/python-color.svg"></code></a>
+<a href="https://go.dev/"><code><img height="25" src="svg/go-color.svg"></code></a>
 <h2>🏆Github Profile Trophy</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chuluo0&row=2&column=3&theme=radical)](https://github.com/chuluo0/chuluo0)
