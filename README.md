@@ -1,11 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=&vCenter=&repeat=%E7%9C%9F&random=%E5%81%87&width=435&separator=%3C&lines=printf(%22Hello+World!%5Cn%22);%3C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5" alt="Typing SVG" /></a>
 
 <img align="right" src="https://count.getloli.com/get/@:chuluo0?theme=rule34">
-<h1>I am Chuluo</h1>
+<h2>I am Chuluo</h2>
 <p>“我将玫瑰藏于身后，风起花落，从此鲜花赠自己，纵马踏花向自由”</p>
  <img align="right" src="./img/bjt.jpg" width="430" height="100%" />
- <h2>技术栈：</h2>
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
+ <h3>技术栈：</h3>
+<a href="https://www.w3school.com.cn/html/html5_intro.asp"><code><img height="20" src="svg/html5-color.svg"></code></a>
  
 <h2>🏆Github Profile Trophy</h2>
 
