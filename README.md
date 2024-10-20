@@ -8,6 +8,11 @@
 <a href="https://www.w3schools.com/css/"><code><img height="20" src="svg/css3-color.svg"></code></a>
 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"><code><img height="20" src="svg/javascript-color.svg"></code></a>
 <a href="https://www.cprogramming.com/"><code><img height="20" src="svg/c-color.svg"></code></a>
+<a href="https://www.w3schools.com/cpp/"><code><img height="20" src="svg/cplusplus-color.svg"></code></a>
+<a href="https://www.w3schools.com/cs/index.php"><code><img height="20" src="svg/csharp-original.svg"></code></a>
+<a href="https://www.java.com/zh-CN/"><code><img height="20" src="svg/java-original.svg"></code></a>
+<a href="https://www.python.org/"><code><img height="20" src="svg/python-color.svg"></code></a>
+<a href="https://go.dev/"><code><img height="20" src="svg/go-color.svg"></code></a>
 <h2>🏆Github Profile Trophy</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chuluo0&row=2&column=3&theme=radical)](https://github.com/chuluo0/chuluo0)
