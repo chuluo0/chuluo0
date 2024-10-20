@@ -2,8 +2,10 @@
 
 <img align="right" src="https://count.getloli.com/get/@:chuluo0?theme=rule34">
 <h1>I am Chuluo</h1>
-
+<p>“我将玫瑰藏于身后，风起花落，从此鲜花赠自己，纵马踏花向自由”</p>
  <img align="right" src="./img/bjt.jpg" width="430" height="100%" />
+ <h2>技术栈：</h2>
+<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
  
 <h2>🏆Github Profile Trophy</h2>
 
