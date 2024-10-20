@@ -2,7 +2,7 @@
 
 <img align="right" src="https://count.getloli.com/get/@:chuluo0?theme=rule34">
 <dir>
-<img src="img/tx.jpg" width="150" height="150">
+<img src="img/bjt.jpg" width="600" height="400">
   <h1>I am Chuluo</h1>
 </dir>
 <h2>🏆Github Profile Trophy</h2>
