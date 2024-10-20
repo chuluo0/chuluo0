@@ -13,6 +13,8 @@
 <a href="https://www.java.com/zh-CN/"><code><img height="25" src="svg/java-original.svg"></code></a>
 <a href="https://www.python.org/"><code><img height="25" src="svg/python-color.svg"></code></a>
 <a href="https://go.dev/"><code><img height="25" src="svg/go-color.svg"></code></a>
+<a href="https://www.docker.com/"><code><img height="25" src="svg/docker-color.svg"></code></a>
+<a href="https://nodejs.org/zh-cn"><code><img height="25" src="svg/nodedotjs-color.svg"></code></a>
 <h2>🏆Github Profile Trophy</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chuluo0&row=2&column=3&theme=radical)](https://github.com/chuluo0/chuluo0)
