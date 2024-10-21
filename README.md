@@ -2,7 +2,7 @@
 
 <img align="right" src="https://count.getloli.com/get/@:chuluo0?theme=rule34">
 <h2>Hello, I'am Chuluo</h2>
-<h3>一个热爱技术的少年还是一个自学力很强的人，目前掌握的技术全是通过自学</h3>
+<h4>一个热爱技术的少年还是一个自学力很强的人，目前掌握的技术全是通过自学</h4>
  <h2>技术栈：</h2>
 <a href="https://www.w3.org/html/"><code><img height="25" src="svg/html5-color.svg"></code></a>
 <a href="https://www.w3schools.com/css/"><code><img height="25" src="svg/css3-color.svg"></code></a>
