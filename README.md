@@ -17,7 +17,7 @@
 <a href="https://nodejs.org/zh-cn"><code><img height="25" src="svg/nodedotjs-color.svg"></code></a>
 <h2>🏆Github Profile Trophy</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chuluo0&row=2&column=3&theme=radical)](https://github.com/chuluo0/chuluo0)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chuluo0&theme=radical)](https://github.com/chuluo0/chuluo0)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuluo0&show_icons=true&theme=dark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuluo0&repo=chuluo.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuluo0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
